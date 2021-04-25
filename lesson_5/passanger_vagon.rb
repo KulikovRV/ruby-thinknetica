@@ -1,0 +1,2 @@
+class PassangerVagon < Vagon
+end
